@@ -1,7 +1,7 @@
 # Application: "Collatz-Problem" - UI
 # Version: 1.1.0
 # Author: Martin Hofbauer
-# Contact: martin@hofeder.solutions
+# Contact: hofi.at@me.com
 
 library(shiny)
 library(bslib)
